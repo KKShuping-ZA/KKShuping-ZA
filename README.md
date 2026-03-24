@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 # Koketso Kempho Shuping
 
 Technical specialist focused on **Software Automation** and **System Architecture**.
