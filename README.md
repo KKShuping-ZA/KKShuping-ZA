@@ -14,7 +14,7 @@ Technical specialist focused on **Software Automation** and **System Architectur
 - **Infrastructure:** Configuring and maintaining secure, high-performance computing environments.
 
 ### 📫 Contact Information
-- **LinkedIn:** www.linkedin.com/in/koketso-shuping-a0b418255
+- **LinkedIn:** www.linkedin.com/in/koketso-shuping-za
 - **Professional Email:** koketso.shuping.za@gmail.com
 
 ---
