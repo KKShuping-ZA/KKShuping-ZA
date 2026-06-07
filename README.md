@@ -9,9 +9,6 @@ Technical specialist focused on **Software Automation** and **System Architectur
 - **Tools:** Git, Virtualization, Network security
 
 ### 📂 Current Projects
-- **Data Analysis & Automation:** Developing Python-based logic for financial market backtesting.
-- **Systems Monitoring:** Implementing C++ utilities for hardware performance analysis.
-- **Infrastructure:** Configuring and maintaining secure, high-performance computing environments.
 
 ### 📫 Contact Information
 - **LinkedIn:** www.linkedin.com/in/koketso-shuping-za
